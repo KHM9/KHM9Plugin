@@ -1,16 +1,12 @@
 <?php
-
-namespace KHM9Plugin;
-
+namespace TotallyNotKHM9\KHM9Plugin;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat as C;
 use pocketmine\Player;
 use pocketmine\Server;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
-
 class main extends PluginBase {
-    
     public function onLoad(): void{
         $this->getLogger()->info(C::GOLD . "Loading is now Loading");
     }
