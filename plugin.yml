@@ -1,11 +1,11 @@
   
 name: KHM9Plugin
-author: KHM9
+author: TotallyNotKHM9
 version: "1.0"
 description: KHM9Plugin is very useless
 api:
 - 3.0.0
 
-main: KHM9Plugin\KHM9Plugin\Main
+main: TotallyNotKHM9\KHM9Plugin\Main
 commands: []
 permissions: []
