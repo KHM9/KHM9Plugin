@@ -25,8 +25,8 @@ class main extends PluginBase {
         if($cmd->getName()){
             switch($args(count) === 0){
               case "example":
-                $player->sendMessage(C::GREEN . "This is an Example");
-                $player->addTitle(C::GREEN . "Example" . "Plugin");
+                $player->sendMessage(C::GREEN . "This is a developed by KHM9... It has no use lol");
+                $player->addTitle(C::GREEN . "KHM9" . "Plugin");
                 break;
             }
         return true;
