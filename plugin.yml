@@ -1,0 +1,19 @@
+#Name of your Plugin.
+name: KHM9Plugin
+#The API of the latest PMMP.
+api:
+ - 3.3 0
+ - 3.0.0
+ - 4.0.0
+#Where the main is at.
+main: KHM9Plugin\main
+#The version of your plugin.
+version: 1.0.0
+#description of your Plugin.
+description: A useless plugin called: KHM9Plugin
+#Author of the plugin.
+
+#the Commands.
+commands:
+  example:
+    description: KHM9Plugin Command 
