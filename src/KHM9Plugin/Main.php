@@ -1,5 +1,5 @@
 <?php
-namespace TotallyNotKHM9\KHM9Plugin;
+namespace src\KHM9Plugin;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat as C;
 use pocketmine\Player;
