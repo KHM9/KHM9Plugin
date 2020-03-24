@@ -7,6 +7,6 @@ description: KHM9Plugin is very useless
 api:
 - 3.0.0
 
-main: TotallyNotKHM9\src\Main
+main: KHM9Plugin\Main
 commands: []
 permissions: []
