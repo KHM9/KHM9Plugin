@@ -1,5 +1,5 @@
 <?php
-namespace src\KHM9Plugin;
+namespace KHM9Plugin;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat as C;
 use pocketmine\Player;
@@ -21,7 +21,6 @@ class main extends PluginBase {
             switch($args(count) === 0){
               case "example":
                 $player->sendMessage(C::GREEN . "This is a developed by KHM9... It has no use lol");
-                $player->addTitle(C::GREEN . "KHM9" . "Plugin");
                 break;
             }
         return true;
