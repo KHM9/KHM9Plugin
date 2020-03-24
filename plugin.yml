@@ -1,6 +1,7 @@
   
 name: KHM9Plugin
 author: TotallyNotKHM9
+main: src\KHM9Plugin\Main
 version: "1.0"
 description: KHM9Plugin is very useless
 api:
