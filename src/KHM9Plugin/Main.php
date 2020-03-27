@@ -8,10 +8,10 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 class main extends PluginBase {
     public function onLoad(): void{
-        $this->getLogger()->info(C::GOLD . "Loading is now Loading");
+        $this->getLogger()->info(C::GOLD . "Your sweet plugin is almost ready! :D");
     }
     public function onEnable(): void{
-        $this->getLogger()->info(C::GREEN . "Plugin has been Enabled!");
+        $this->getLogger()->info(C::GREEN . "The one and only KHM9 Plugin has been enabled! :D");
     }
     public function onDisable(): void{
         $this->getLogger()->info(C::RED . "Plugin has been Disabled");
